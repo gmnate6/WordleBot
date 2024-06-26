@@ -1,2 +1,2 @@
 # WordleBot
-WordleBot API
+Play, Solve, and Test with WordleBot API
