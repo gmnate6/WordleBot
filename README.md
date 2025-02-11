@@ -16,16 +16,16 @@ WordleBot is a Python-based application that automatically solves the game of Wo
 To run WordleBot locally, follow these steps:
 
 1. Clone the repository:
-'git clone https://github.com/gmnate6/WordleBot.git'
+`git clone https://github.com/gmnate6/WordleBot.git`
 
 2. Navigate into the project directory:
-'cd WordleBot'
+`cd WordleBot`
 
 3. Install dependencies:
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 4. Run the application: Launch the bot by running:
-'python main.py'
+`python main.py`
 
 The Tkinter GUI should open, and you can start playing the game.
 
